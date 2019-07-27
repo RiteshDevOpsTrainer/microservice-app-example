@@ -1,6 +1,6 @@
 FROM node:8-alpine
 
-EXPOSE 8080
+EXPOSE 9080
 
 WORKDIR /usr/src/app
 
